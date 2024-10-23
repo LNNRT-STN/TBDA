@@ -1,0 +1,12 @@
+Case II: Understanding from Numerical Control Driven Machining Control (milling,Lathe,Planner,etc.) .
+
+Business case:
+To analyze information collected by the numerical control and stored in high frequency to bring human understandable hints.
+
+Needs:
+To identify operation periods of the machine
+Create a UI to facilitate the interaction
+Determine when the machine is working
+Determine timing and Energy demands per program name.
+Determine Alerts and contextualize them (Type and Location)
+Document the approach and Algorithms.
